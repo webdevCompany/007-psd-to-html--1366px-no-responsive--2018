@@ -1,0 +1,119 @@
+.footer {
+  width: 100%;
+  height: 488px;
+  background-color: #120e44;
+}
+
+.footer__top {
+  width: 100%;
+  height: 373px;
+  padding-left: 9.74%;
+  padding-right: 9.74%;
+  display: flex;
+}
+
+.footer__top__left {
+  width: 483px;
+  height: 276px;
+  margin-top: 50px;
+}
+
+.footer__logo {
+  width: 202px;
+  height: 57px;
+}
+
+.footer__top__left__p {
+  font-size: 14px;
+  color: #fff;
+  margin-top: 32px;
+  line-height: 20px;
+  font-family: Gadugi;
+  width: 445px;
+}
+
+.footer__top__right {
+  width: 566px;
+  height: 228px;
+  margin-top: 72px;
+  margin-left: 52px;
+}
+
+.footer__top__right__h2 {
+  font-size: 36px;
+  color: #fff;
+}
+
+.footer__top__right__ul {
+  margin-top: 19px;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer__top__right__ul__li {
+  height: 36px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+
+.footer__top__right__ul__li__a {
+  display: inline-block;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #0b0829;
+  color: #fff;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 15px;
+  transition: all 0.5s;
+}
+
+.footer__top__right__ul__li__a:hover {
+  background-color: rgb(85, 3, 98);
+  color: #fff;
+}
+
+.footer__top__right__ul__li__a-1 {
+  display: inline-block;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #d0cfda;
+}
+
+/* ********************************************************* */
+.footer__bottom {
+  width: 100%;
+  height: 115px;
+  background-color: #04030e;
+  padding-left: 9.74%;
+  padding-right: 9.74%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+}
+
+.footer__bottom__ul {
+  width: 855px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__bottom__ul__li__a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+}
+
+.copyright {
+  color: rgb(124, 6, 90);
+  margin-top: 15px;
+}
+
+.copyright__designer {
+  margin-left: 20px;
+  color: rgb(51, 18, 209);
+}

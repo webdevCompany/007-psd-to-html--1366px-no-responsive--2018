@@ -1,0 +1,188 @@
+.most-and-editor {
+  width: 100%;
+  height: 680px;
+  padding-left: 9.74%;
+  padding-right: 9.74%;
+  display: flex;
+}
+
+.most {
+  width: 50%;
+  height: 656px;
+}
+
+.most__header {
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+.most__header__icon {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+}
+
+.most__header__h3 {
+  font-size: 30px;
+  height: 30px;
+  margin-left: 6px;
+}
+
+.most__1 {
+  width: 100%;
+  height: 277px;
+  background-image: url(../images/most-1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.most__1__button-and-icon {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.most__1__a {
+  width: 106px;
+  height: 31px;
+  line-height: 31px;
+  margin-left: 33px;
+  text-align: center;
+  display: inline-block;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  margin-top: 28px;
+}
+
+.most__1__img {
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.most__1__h3 {
+  font-size: 24px;
+  color: #fff;
+  margin-top: 120px;
+  margin-left: 32px;
+}
+
+.most-2-and-3 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding-top: 20px;
+  box-sizing: border-box;
+}
+
+.most__2 {
+  width: 265px;
+  height: 291px;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.most__2__img-big {
+  width: 100%;
+  height: 165px;
+  display: inline-block;
+}
+
+/* circle with the number */
+.most__2__img {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.most__2__h3 {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.most__2__p {
+  font-size: 14px;
+}
+
+.most__3 {
+  width: 265px;
+  height: 291px;
+  margin-left: 20px;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.most__3__img-big {
+  width: 100%;
+  height: 165px;
+  display: inline-block;
+}
+
+.most__3__img {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.most__3__h3 {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.most__3__p {
+  font-size: 14px;
+}
+
+/* **************************************************** */
+.editor {
+  width: 531px;
+  height: 600px;
+  padding-left: 19px;
+}
+
+.editor__header {
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+.editor__header__icon {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+}
+
+.editor__header__h3 {
+  font-size: 30px;
+  height: 30px;
+  margin-left: 6px;
+}
+
+.editor__figure-and-article {
+  width: 531px;
+  height: 174px;
+  margin-bottom: 23px;
+  display: flex;
+}
+
+.editor__figure {
+  width: 250px;
+  height: 174px;
+}
+
+.editor__article {
+  padding-left: 17px;
+}
+
+.editor__article__comment-and-date {
+  font-size: 14px;
+  margin-top: 15px;
+  line-height: 18px;
+}
+
+.editor__h4 {
+  font-size: 22px;
+  line-height: 27px;
+}

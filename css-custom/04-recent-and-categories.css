@@ -1,0 +1,169 @@
+.recent-and-categories {
+  width: 100%;
+  height: auto;
+  padding-left: 9.74%;
+  padding-right: 9.74%;
+
+  display: flex;
+}
+
+.recent {
+  width: 835px;
+  height: auto;
+}
+
+.recent__header {
+  width: 835px;
+  height: 74px;
+  display: flex;
+  align-items: center;
+}
+
+.recent__header__icon {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+}
+
+.recent__header__h2 {
+  margin-left: 6px;
+}
+
+.recent__horizontal-block {
+  width: 835px;
+  height: 277px;
+  display: flex;
+}
+
+.recent__big {
+  width: 550px;
+  height: 277px;
+  background-image: url(../images/recent-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.recent__big__h3 {
+  width: 472px;
+  font-size: 23px;
+  font-weight: 600;
+  color: #fff;
+  margin-top: 119px;
+  margin-left: 36px;
+  line-height: 37px;
+}
+
+.recent__big__button-black {
+  width: 116px;
+  height: 31px;
+  line-height: 31px;
+  display: inline-block;
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+  margin-top: 29px;
+  margin-left: 11px;
+}
+
+.recent__small__block-1 {
+  width: 265px;
+  height: 290px;
+  margin-left: 20px;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.recent__small {
+  width: 265px;
+  height: 290px;
+  margin-top: 20px;
+  margin-right: 20px;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.recent__small__button-black {
+  width: 78px;
+  height: 31px;
+  line-height: 31px;
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+  position: absolute;
+  top: 9px;
+  left: 9px;
+}
+
+.recent__small__p {
+  margin-top: 10px;
+}
+
+/* ******************************************************** */
+
+.categories {
+  width: 246px;
+  height: 1639px;
+  margin-left: 20px;
+}
+
+.categories__h3 {
+  font-size: 26px;
+  width: 151px;
+  height: 74px;
+}
+
+.categories__ul-fashion {
+  list-style-type: none;
+}
+
+.categories__ul-fashion__li {
+  font-size: 16px;
+  height: 46px;
+  line-height: 46px;
+  margin-bottom: 4px;
+}
+
+.categories__ul-fashion__li__a {
+  display: inline-block;
+  padding-left: 15px;
+  padding-right: 26px;
+  background-color: #ccc;
+  text-decoration: none;
+}
+
+.categories__ul-fashion__li__a-1 {
+  background-color: #003471;
+  color: #fff;
+}
+
+.categories-advertisement {
+  margin-top: 32px;
+  margin-bottom: 40px;
+}
+
+/* CATEGORIES  TWITTER ------------------------------------- */
+
+.categories__twitter__h3 {
+  font-size: 26px;
+  color: #464646;
+  margin-bottom: 48px;
+}
+
+.categories__twitter__figure-comment {
+  font-family: Gadugi;
+  font-size: 14px;
+  height: 111px;
+  margin-left: 17px;
+  margin-right: 47px;
+}
+
+.twitter__cite {
+  color: #0089b0;
+}
+
+.categories__twitter__time {
+  font-size: 13px;
+  display: block;
+}
